@@ -14,10 +14,8 @@
 
 ## Ferramentas e Tecnologias
 
-<div align="center">
-    <a href="https://github.com/devicons/devicon">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="Devicon Logo" height="140" />
-    </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" />
+
 
 
 
