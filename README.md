@@ -1,4 +1,4 @@
-# Dandara-Moraes
+[README.md](https://github.com/user-attachments/files/16902012/README.md)# Dandara-Moraes
 
 ## Olá pessoal 👋
 
@@ -15,9 +15,324 @@
 ## Ferramentas e Tecnologias
 
 
-<svg viewBox="0 0 128 128">
-<path fill="#f37036" d="M34.582 53.867a16.584 16.584 0 0 0-17.465-5.87A16.577 16.577 0 0 0 5.02 61.89a16.579 16.579 0 0 0 8.199 16.496 16.58 16.58 0 0 0 18.379-1.27c7.254-5.597 8.566-16.004 2.984-23.25Zm0 0" style="fill:#ff6c37"></path> <path fill="#fff" d="M28.855 53.355a2.71 2.71 0 0 0-1.714.657 2.669 2.669 0 0 0-.41 3.593 2.673 2.673 0 0 0 3.542.727l-1.875-1.879 2.372-2.351a2.675 2.675 0 0 0-1.915-.747zm1.97.786-.012.004-2.352 2.347 1.879 1.88a2.97 2.97 0 0 0 .523-.388 2.767 2.767 0 0 0-.039-3.843zm-5.24 3.06c-1.135-.002-2.982 1.282-7.5 5.799l.015.016-.026-.004-1.699 1.687a.268.268 0 0 0-.05.324.273.273 0 0 0 .296.145l2.902-.621a.092.092 0 0 0 .024-.045l.058.06-1.011 1.004h-.02l-5.898 5.942 1.89 1.812a.349.349 0 0 0 .395.04.35.35 0 0 0 .172-.36l-.278-1.2a.135.135 0 0 1 0-.167v.012a31.352 31.352 0 0 0 7.145-4.7l-1.22-1.218.029-.004-.715-.723.04-.041.057.057-.03.03 1.905 1.93v.004c3.561-3.36 6.114-6.086 5.618-7.957a1.02 1.02 0 0 0 0-.002 1.02 1.02 0 0 0 0-.001 1.02 1.02 0 0 0 0-.002 1.02 1.02 0 0 0 0-.002c0-.282-.122-.55-.329-.743h-.011a1.013 1.013 0 0 0-.365-.212l.076-.077h.01c-.485-.427-.884-.782-1.48-.783zM12.63 71.535l-1.383 1.383a.283.283 0 0 0-.121.3.283.283 0 0 0 .246.212l3.387.234-2.13-2.129z"></path> <path fill="#f37036" d="M28.723 53.139a2.96 2.96 0 0 0-1.864.838 2.93 2.93 0 0 0-.646 3.11 1.621 1.621 0 0 0-.676-.13c-1.256.025-3.188 1.42-7.63 5.863-.01.01-.013.02-.02.03a.33.33 0 0 0-.02.013l-1.687 1.7a.52.52 0 0 0-.094.62.535.535 0 0 0 .453.262l.098-.054 2.232-.479-1.072 1.084a.24.24 0 0 0-.04.11l-5.23 5.23a.316.316 0 0 0-.05.035l-1.38 1.383a.514.514 0 0 0-.113.547.518.518 0 0 0 .446.336l3.37.234v.004a.299.299 0 0 0 .137-.113.24.24 0 0 0 .012-.262.597.597 0 0 0 .32-.668l-.277-1.105a33.835 33.835 0 0 0 7.037-4.508.27.27 0 0 0 .037.008h.012a.296.296 0 0 0 .18-.082c3.622-3.426 5.75-5.777 5.75-7.641a2.124 2.124 0 0 0-.112-.742 2.93 2.93 0 0 0 1.006.203v-.016a2.98 2.98 0 0 0 1.37-.373.197.197 0 0 0 .013.002.227.227 0 0 0 .168-.012 2.51 2.51 0 0 0 .55-.441 2.896 2.896 0 0 0 .038-4.107.236.236 0 0 0-.012-.014.236.236 0 0 0-.025-.027 2.96 2.96 0 0 0-.022-.018.246.246 0 0 0-.068-.059 2.96 2.96 0 0 0-2.191-.761zm.18.466a2.48 2.48 0 0 1 1.492.512l-2.153 2.168a.209.209 0 0 0-.076.123v.004a.233.233 0 0 0-.006.045.217.217 0 0 0 0 .002v.002a.227.227 0 0 0 .006.027.217.217 0 0 0 .076.145l1.63 1.629a2.414 2.414 0 0 1-2.536-.38l-.008-.005c-.004-.004-.007-.01-.012-.014a.257.257 0 0 0-.007-.004 2.45 2.45 0 0 1-.118-.109 2.426 2.426 0 0 1-.52-2.64 2.424 2.424 0 0 1 2.231-1.505zm1.902.918c.35.425.543.96.543 1.516a2.43 2.43 0 0 1-.72 1.727 2.46 2.46 0 0 1-.278.23l-1.584-1.543 2.039-1.93zm-.159 1.106a.207.207 0 0 0-.084.02.247.247 0 0 0-.105.113c-.027.05-.012.105.012.152a.59.59 0 0 1-.07.621.184.184 0 0 0 0 .262.143.143 0 0 0 .113 0 .183.183 0 0 0 .18-.055.956.956 0 0 0 .124-1.008l.008-.004a.207.207 0 0 0-.178-.101zm-5.234 1.826a1.494 1.494 0 0 1 1.045.326 1.266 1.266 0 0 0-.73.356l-6.092 6.05L18.445 63c3.157-3.14 5.087-4.767 6.285-5.32a1.494 1.494 0 0 1 .682-.225zm1.084.768a.769.769 0 0 1 .668.218.733.733 0 0 1 .065.069 1.567 1.567 0 0 1 .12.21.733.733 0 0 1 .006.014.733.733 0 0 1 .043.27.77.77 0 0 1-.261.555L20.64 65.21l-.692-.691 6.121-6.079a.769.769 0 0 1 .426-.218zm.008.478a.458.458 0 0 0-.09.082l.09-.082zm.9 1.342c-.484 1.785-2.84 4.182-5.326 6.535l-1-1 6.326-5.535zm-9.318 3.3.027.026.985.985-2.575.552 1.563-1.562zm1.547 1.548.328.336a.302.302 0 0 0 .004.021l.017.002.3.305-1.534.232-.004-.008.889-.888zm1.012 1.103.98.97a34.022 34.022 0 0 1-6.91 4.45.387.387 0 0 0-.207.441l.277 1.204a.071.071 0 0 1 0 .093.083.083 0 0 1-.11 0l-1.628-1.656 5.045-5.117 2.553-.385zm-7.965 5.861.117.11 1.307 1.306-2.674-.173 1.25-1.243zm58.855-13.466a2.644 2.644 0 0 0-.547.05c-1.735.347-2.527 1.325-2.379 3.118.098 1.34.844 1.978 1.832 2.423.692.36 1.395.596 1.93 1.19a2.125 2.125 0 0 1 .445 2.226c-.3.843-.843 1.188-1.582 1.239-.793.039-1.437-.145-2.03-.79-.212-.25-.493-.45-.743-.154-.297.348-.047.694.148.944.65.788 1.484.986 2.524.986v-.012c.347-.1.89-.048 1.387-.396 1.089-.641 1.386-1.633 1.386-2.918 0-1.387-.593-2.336-1.683-2.871-.692-.344-1.434-.555-2.078-1.086-.496-.45-.595-1.04-.497-1.734.101-.692.606-1.04 1.141-1.137.645-.098 1.337-.098 1.98.25.298.144.64.343.79-.154.148-.43-.149-.727-.493-.829-.483-.184-.994-.34-1.53-.345zm36.342.02c-.527.033-.577.626-.717 1.04l-2.426 8.961c-.097.395-.246.891.25 1.086.493.137.543-.344.645-.691.593-1.798.593-1.797 2.273-1.797h.438c1.352 0 1.353 0 1.793 1.52.052.202.149.449.199.644.09.297.285.347.531.297.297-.051.348-.297.348-.645l-.008.028a5.705 5.705 0 0 0-.195-.891l-2.278-8.512c-.097-.442-.207-.989-.742-1.039a.81.81 0 0 0-.111-.002zm-48.373.032c-1.484 0-2.472.692-2.672 2.13-.297 2.22-.246 4.49 0 6.718.199 1.538 1.141 2.23 2.773 2.23 1.536 0 2.375-.757 2.622-2.277.15-1.087.052-2.124.101-3.207-.05-1.14.098-2.278-.152-3.465-.246-1.387-1.188-2.129-2.672-2.129zm20.441.004c-.245 0-.445.2-.445.496 0 .383.203.538.496.538s.642.046.938 0c.743-.102 1.089.197 1.039 1.134v7.969c0 .383 0 .828.496.828.446 0 .496-.433.496-.828v-8.115c0-.742.2-1.09.89-1.04.348.05.743 0 1.086 0 .301 0 .496-.187.496-.534 0-.293-.195-.448-.445-.448h-5.047zm-34.207.008c-.582 0-.828.246-.828.988v4.586l-.023.018v4.65c0 .395 0 .793.445.793s.492-.394.492-.742c0-.828.051-1.733 0-2.623-.047-.743.203-1.088.895-1.041.453.05.836 0 1.281 0 1.547-.098 2.438-1.12 2.488-2.918.051-2.625-.793-3.66-3.07-3.71h-1.68zm76.961.106c-.285 0-.481.152-.531.496-.051.246-.05.441-.05.691v5.8c0 .2.05.497-.196.599-.301.097-.3-.199-.399-.399-.148-.398-.347-.742-.496-1.137l-2.422-5.398c-.203-.395-.45-.744-.89-.594-.398.1-.348.547-.348.89v9.122c0 .394 0 .938.535.89.496 0 .395-.546.395-.89v-5.89c0-.349-.098-.743.2-1.04l.01-.02c.336.146.388.493.536.79l2.77 6.136c.2.446.406.988.94.793.493-.153.345-.691.345-1.09v-9.156c0-.297-.102-.543-.399-.593zm-30.531.029a.722.722 0 0 0-.176.033c-.445.15-.344.691-.344 1.086v9.305c.047.246.149.445.446.496.285 0 .481-.2.531-.496.05-.297.05-.595.05-.89v-5.99c0-.186-.05-.484.2-.53.195-.051.195.246.297.394l1.332 2.922c.152.344.199.738.598.738.28 0 .382-.394.53-.691l1.634-3.512.007-.016c.395.399.294.793.344 1.188v5.691c0 .5-.156 1.192.535 1.192.645 0 .493-.696.493-1.14v-8.61c0-.448.136-.988-.395-1.14-.543-.098-.793.347-.988.792l-1.52 3.266c-.152.297-.2.89-.644.89-.4-.062-.446-.593-.594-.89l-1.524-3.364c-.17-.389-.42-.744-.812-.724zm-44.531.867c.476.006.933.12 1.328.516.746.789.742 1.78.496 2.818-.247 1.043-.789 1.389-2.227 1.389-1.386 0-1.386 0-1.386-1.586v-2.227c0-.348 0-.79.347-.79.471-.026.966-.126 1.442-.12zm11.824.068c1.138-.05 1.829.696 1.879 1.98v2.54c0 .891.05 1.742 0 2.574-.047 1.34-.742 2.028-1.88 2.028-1.105-.051-1.746-.747-1.796-2.028v-5.113c.066-1.29.712-1.98 1.797-1.98zm48.484 1.141c.297 0 .247.344.297.594l.942 3.512c.343 1.234.293 1.285-.793 1.285h-.496l.003.02c-1.585 0-1.636 0-1.14-1.798l.793-2.968c.05-.301.097-.645.394-.645z"></path>
-</svg>
+[Uploading README<p align="center">
+    <a href="https://github.com/devicons/devicon/releases">
+        <img alt="GitHub release (latest by semver)" src="https://img.shields.io/github/v/release/devicons/devicon?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver">
+    </a>
+    <a href="/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
+    </a>
+    <a href="https://github.com/devicons/devicon/graphs/contributors">
+        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/devicons/devicon?color=%2360be86&style=for-the-badge">
+    </a>
+    <a href="https://github.com/devicons/devicon/actions">
+        <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/devicons/devicon/master?color=%2360be86&style=for-the-badge">
+    </a>
+    <a href="https://github.com/devicons/devicon/issues?q=is%3Aopen+is%3Aissue+label%3Arequest%3Aicon">
+        <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/devicons/devicon/request:icon?color=%2360be86&label=icon%20requests&style=for-the-badge">
+    </a>
+    <a href="https://github.com/devicons/devicon/stargazers">
+        <img alt="GitHub repository stars" src="https://img.shields.io/github/stars/devicons/devicon?color=%2360be86&label=github%20stars&style=for-the-badge">
+    </a>
+    <a href="https://devicon.dev/">
+        <img alt="Registered logos" src="https://img.shields.io/github/directory-file-count/devicons/devicon/icons?color=%2360be86&label=registered%20logos&style=for-the-badge">
+    </a>
+</p>
+<br />
+<div align="center">
+    <a href="https://github.com/devicons/devicon">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="Devicon Logo" height="140" />
+    </a>
+    <h5 align="center">
+        Devicon aims to gather all logos representing development languages and tools.
+    </h5>
+    <p align="center">
+        <a target="_blank" href="https://devicon.dev">Demo</a>
+        &middot;
+        <a target="_blank" href="https://github.com/devicons/devicon/issues/new?assignees=&labels=request%3Aicon&template=icon-request.md&title=Icon+request%3A+%5BNAME%5D">Request Icon</a>
+        &middot;
+        <a href="#contribute">Contribute</a>
+    </p>
+</div>
+
+<h2>TL;DR</h2>
+
+```html
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
+```
+
+<h2>Table of Contents</h2>
+<ol>
+    <li><a href="#about">About the Project</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#request-icon">Requesting Icon</a></li>
+    <li><a href="#contribute">Contributing</a></li>
+    <li><a href="#discord-community">Discord Community</a></li>
+    <li><a href="#develop-vs-master"><code>develop</code> vs <code>master</code></a></li>
+    <li><a href="#stale-prs">Stale Pull Requests</a></li>
+    <li><a href="#building-devicon">Building Devicon</a></li>
+</ol>
+
+<h2 id="about">About the Project</h2>
+<p>
+    Devicon aims to gather all logos representing development languages and tools.
+    Each icon comes in several versions: font/SVG, original/plain/line, colored/not colored, wordmark/no wordmark.
+    Devicon has 150+ icons. And it's growing!<br/>
+</p>
+<p>
+    See the <a href="/devicon.json">devicon.json</a> or <a href="https://devicon.dev">our website</a> for complete and up to date reference of
+    all available icons.
+</p>
+
+<p>
+    Thanks to all our contributors and the <a href="https://icomoon.io/#home">IcoMoon app</a>. Devicon would not be possible without you.
+</p>
+
+<sub>
+    All product names, logos, and brands are property of their respective owners. All company, product and service
+    names used in this website are for identification purposes only. Use of these names, logos, and brands does not
+    imply endorsement. Usage of these logos should be done according to the company/brand/service's brand policy.
+</sub>
+
+<h2 id="getting-started">Getting Started</h2>
+<p>
+    For a super fast setup, go check <a href="https://devicon.dev">devicon.dev</a>.<br />
+    You can either use the <a href="#getting-started-svg">raw SVG</a> icons, our <a href="#getting-started-font">Devicon font</a> (which is
+    also available via <a href=https://www.jsdelivr.com/package/npm/devicon>CDN</a>), or by <a href=#building-devicon>building Devicon</a> yourself.
+</p>
+
+<h3 id="getting-started-font">Use the <code>devicon</code> font (recommended)</h3>
+<p>
+    You can install devicon as a dependency to your project either with <code>npm</code> or <code>yarn</code>:
+</p>
+
+```bash
+npm install --save devicon
+yarn add devicon
+```
+
+<p>
+    If you don't want to use a package manager, you can also download
+    and include <a href="/devicon.min.css">devicon.min.css</a> next to the <a href="/fonts">font files</a> to your project.
+    See <a href="https://devicon.dev">devicon.dev</a> for details about how to add Devicon to your project via
+    a CDN.
+</p>
+<p>
+    After setting up you just have to include the stylesheet in your header
+    to get started:
+</p>
+
+```html
+<link rel="stylesheet" href="devicon.min.css">
+```
+
+<p>Start using icons with <code>&lt;i&gt;</code>-tag:</p>
+
+```html
+<!--  for devicon plain version -->
+<i class="devicon-devicon-plain"></i>
+
+<!--  for devicon plain version with wordmark -->
+<i class="devicon-devicon-plain-wordmark"></i>
+
+<!--  for devicon plain version colored with devicon main color -->
+<i class="devicon-devicon-plain colored"></i>
+
+<!--  for devicon plain version with wordmark colored with devicon main color -->
+<i class="devicon-devicon-plain-wordmark colored"></i>
+```
+
+<p>
+    An alternate way to use <code>devicon</code> is by copy/pasting the raw SVG code
+    to your project.
+</p>
+<h3 id="getting-started-svg">Copy/paste SVG code (from the <a href="https://github.com/devicons/devicon/tree/master/icons">SVG folder</a> or the <a href="https://devicon.dev">project page</a>):</h3>
+
+```html
+<!--  for devicon plain version -->
+<svg id="Devicon" class='devicon-devicon-plain' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path id="plain" fill="#60be86" d="M64,7.83H4.77L14.95,95.13l49,25,.06,0,49.07-25L123.23,7.83Zm42.77,54.86c0,.88,0,1.67-.77,2L73.25,80.44l-2.42,1.13-.27-3.15V72.23l.24-1.57,1.09-.47L95.07,59.81l-21.54-9.6L64.35,68.34,58.9,78.87l-1.22,2.27-2.05-.9L22,64.71a2.42,2.42,0,0,1-1.45-2V56.91a2.39,2.39,0,0,1,1.42-2l34-15.73,3.21-1.44v9.66l.24,1.34-1.56.7L34.45,59.79,56.3,69.42l8.05-16,6.21-12.65,1.13-2.28,1.81.91L106,54.89c.73.35.76,1.14.76,2Z"/></svg>
+```
+
+Add the following CSS rules in your stylesheet:
+
+```css
+.devicon-devicon-plain {
+  max-width: 2em;
+}
+
+/* if you want to change the original color */
+.devicon-devicon-plain path {
+  fill: #4691f6;
+}
+```
+
+<h4>You can also use the <code>img</code> tag and reference an SVG directly from the repository:</h4>
+
+```html
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
+```
+
+<h2 id="request-icon">Requesting an icon</h2>
+<p>
+    When you want to request an icon please feel free to create an issue. Check out our <a href="https://github.com/devicons/devicon/wiki/Requesting-an-Icon">Wiki</a> for more information.
+</p>
+
+<h2 id="contribute">Contributing</h2>
+<p>
+    We are happy with every contribution, whether it's new icons, features, or maintainers. Please have a look at our <a href="https://github.com/devicons/devicon/wiki">Wiki</a> to see how you can contribute to this project.
+</p>
+
+<h2 id="discord-community">Discord community</h2>
+<p>
+We have a Discord community for Devicons. You can easily request icons, discuss, and have a good time talking with the community members! Join the official Discord Server <a href="https://discord.gg/hScy8KWACQ">here!</a>
+</p>
+
+<h2 id="develop-vs-master"><code>develop</code> vs <code>master</code></h2>
+<p>
+All official releases shall be in <code>master</code>. Any updates in between (icons, features, etc.) will be kept in <code>develop</code>.
+</p>
+<b><code>develop</code> contains:</b>
+<ul>
+    <li>
+        Latest SVGs (non-optimized).
+    </li>
+    <li>
+        No icons for the latest SVGs. These will be built at every release.<br>
+        Can be built manually. See <a href="#building-devicon"><i>Building Devicon</i></a>.
+    </li>
+    <li>
+        Experimental changes.
+    </li>
+</ul>
+<b><code>master</code> contains:</b>
+<ul>
+    <li>
+        Latest official release, which contains all the SVGs and icons.
+    </li>
+    <li>
+        Official, tested changes.
+    </li>
+</ul>
+
+<h2 id="stale-prs">Stale Pull Requests</h2>
+<p>
+After a pull request has been open for over 30 days with no activity or response from the author, it'll be automatically marked as stale. We might fork your changes and merge the changes ourselves. Since GitHub tracks contributions by commits, you will be credited.
+</p>
+
+<h2 id="building-devicon">Building Devicon</h2>
+<p>
+Follow these steps to build the website and icons either locally or using <a href=https://www.gitpod.io>Gitpod.io</a>.
+</p>
+
+<h3>Table of contents</h3>
+<ol>
+    <li><a href="#using-gitpod">Using Gitpod to build</a></li>
+    <li><a href="#local-installation">Local Installation</a></li>
+    <ol>
+      <li><a href="#install-dependencies">Install dependencies</a></li>
+      <li><a href="#building-icons">Build the icons</a></li>
+      <li><a href="#build-css">Build the CSS stylesheet</a></li>
+      <li><a href="#web-server">Setting up the web server</a></li>
+    </ol>
+</ol>
+
+<h2 id="using-gitpod">Using Gitpod.io</h2>
+<p>By using <a href=https://www.gitpod.io)>Gitpod.io</a>, you can easily build the icons and install the<br>required dependencies in one single click. No extra setup is required.</p>
+
+<a href=https://gitpod.io/#https://github.com/devicons/devicon/tree/develop><img src=https://gitpod.io/button/open-in-gitpod.svg alt="Open in Gitpod"></img></a>
+
+> **Note**
+> In case some of the commands are not properly ran, you can\
+> follow the steps below and run the same commands on Gitpod.io
+
+<h2 id="local-installation">Local Installation</h3>
+
+<h3 id="install-dependencies">Install dependencies</h3>
+
+<p><a href=https://github.com/devicons/devicon/fork>Fork</a> the repository and clone the forked repository.</p>
+
+```bash
+git clone https://github.com/<your-github-username>/devicon.git
+```
+
+> **Note**
+> In case you don't have Git installed, check the <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">official guide</a> to install Git on your operating system.
+
+<h3>Install all the necessary NPM dependencies</h3>
+
+```bash
+npm install
+```
+
+> **Note**
+> In case you don't have NPM installed, check this <a href=https://kinsta.com/blog/how-to-install-node-js/><b>ultimate guide</b></a> on installing Node.js and NPM. These tools are required in order to build Devicon properly.
+
+<h3>Install Firefox</h3>
+https://www.mozilla.org/en-US/firefox/new/
+
+<h3>Install Python 3.8</h3>
+https://www.python.org/downloads/
+
+> **Note**
+> Make sure your Python install includes [pip](https://pypi.org/project/pip/)
+
+<h3>Install Selenium</h3>
+```bash
+python3 -m pip install --upgrade pip && pip install selenium==4.1.0 requests==2.25.1
+```
+
+<h3 id="building-icons">Build the new icons</h3>
+
+<p>Once all the dependencies are installed, you can proceed to build the newest icons.<br>
+Usually, this is done on each release, but you can have a sneak peek before a release.</p>
+
+```bash
+# Linux/Unix
+npm run build-icons
+
+# Windows
+python3 ./.github/scripts/icomoon_build_githubless.py ./.github/scripts/build_assets/geckodriver-v0.32.2-win64/geckodriver.exe ./icomoon.json ./devicon.json ./icons ./ --headless
+```
+
+<i>The process might take a while, depending on your operating system's speed and the amount of icons.</i>
+<p>If there are any errors shown, please let us know by <a href=https://github.com/devicons/devicon/issues/new/choose>creating an issue</a> or contacting us on our <a href=https://discord.gg/hScy8KWACQ>Discord community</a>.</p>
+
+<h3 id="build-css">Build the CSS stylesheet</h3>
+
+<p>Run the following command to build the new CSS stylesheet.<br>
+This file is used to show all the new icons previously built.</p>
+
+```bash
+npm run build-css
+```
+
+<h3 id="web-server">Setting up the web server</h3>
+
+<p>Run the following command to start the web server with Python.</p>
+
+```bash
+npm run dev # Will run on port 8000
+```
+
+<p>Or this command, which does exactly the same, but the port can be customized.</p>
+
+```bash
+python3 -m http.server <port>
+```
+
+<p>You're done now! :tada: Your build of Devicons should be available at <code>https://localhost:8000</code> (or the desired port).</p>
+
+<br/>
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+</div>
+.md…]()
+
 
           
 
