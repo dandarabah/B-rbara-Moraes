@@ -1,31 +1,29 @@
-[README.md](https://github.com/user-attachments/files/16902012/README.md)# Dandara-Moraes
+# Dandara-Moraes
 
 ## Olá pessoal 👋
 
-<! --![octocat-1725585823629](https://github.com/user-attachments/assets/b9af244c-42cf-4701-a373-3ce7d44cf4d2)
+<! --
+
+<img allng="right" alt="GIF" src= "https://github.com/user-attachments/assets/4b310113-27de-447d-9ed6-9d5db4b797d4" width="400px" />
 
 
 🌱  Sejam bem-vindos a minha página!!
 
-- Atualmente sou estudante da Alura e estou fazendo a formação Carreira QA: processos e automação de testes
+- Atualmente sou estudante da Alura e estou fazendo a formação Carreira QA: processos e automação de testes.
 - Estou estudando testes automatizados em cypress, testes de API, Git e Github logo irei iniciar os estudos em Robot.
   
 -->
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
 
 
-
-
-          
-
-
-Estatísticas
+## Estatísticas
 
 <div>
 <a href="https://github.com/dandarabah">
